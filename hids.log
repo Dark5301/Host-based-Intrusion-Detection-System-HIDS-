@@ -1,0 +1,13 @@
+2025-02-28 21:43:51,339 - INFO - HIDS started successfully
+2025-02-28 21:54:40,067 - INFO - HIDS started successfully
+2025-03-04 01:26:08,895 - INFO - HIDS started successfully
+2025-03-04 01:28:30,499 - INFO - Just manually checking if it is working
+2025-03-06 21:42:27,240 - INFO - [ALERT] Process launchd with PID 1 found!
+2025-03-06 21:43:05,004 - INFO - [ALERT] Process launchd with PID 1 found!
+2025-03-06 21:44:40,630 - INFO - [ALERT] Process launchd with PID 1 found!
+2025-03-06 21:44:47,649 - INFO - [ALERT] Process launchd with PID 1 found!
+2025-03-06 21:46:47,932 - INFO - [ALERT] Process launchd with PID 1 found!
+2025-03-06 21:47:03,415 - INFO - [ALERT] Process launchd with PID 1 found!
+2025-03-06 21:48:19,983 - INFO - [ALERT] Process launchd with PID 1 found!
+2025-03-06 21:48:20,260 - INFO - [ALERT] Process launchd with PID 1 found!
+2025-03-06 21:49:27,591 - INFO - [ALERT] Process launchd with PID 1 found!

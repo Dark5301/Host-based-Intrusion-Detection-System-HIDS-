@@ -1,11 +1,11 @@
-Host-based Intrusion Detection System (HIDS)
+#Host-based Intrusion Detection System (HIDS)
 
-Overview
 
+#Overview
 This project implements a Host-based Intrusion Detection System (HIDS) that monitors system activity, detects anomalies, and alerts users about potential security threats. The system consists of several components, including log analysis, process monitoring, file integrity checking, and network monitoring.
 
-Features
 
+#Features
 Log Analysis: Analyzes system logs to detect suspicious activity.
 
 Process Monitoring: Tracks running processes to identify unauthorized or abnormal behavior.
@@ -18,8 +18,8 @@ Alerting System: Notifies users when security incidents are detected.
 
 Centralized Execution Script: Runs all HIDS components together for comprehensive monitoring.
 
-Components
 
+#Components
 alerting_system.py: Handles alerts and notifications for detected threats.
 
 file_integrity_monitoring.py: Monitors file changes and integrity.
@@ -34,8 +34,8 @@ process_monitoring.py: Observes running processes for unusual activity.
 
 run_hids.py: Main script to execute the HIDS system.
 
-Installation
 
+#Installation
 Clone the repository:
 
 git clone <repository-url>
@@ -49,22 +49,21 @@ Run the HIDS system:
 
 python run_hids.py
 
-Usage
 
+#Usage
 Ensure the system has the necessary permissions to monitor logs, files, and processes.
 
 Modify configuration settings as needed for your security policies.
 
 Check logs and alerts regularly to respond to security threats.
 
-Contributing
 
+#Contributing
 Contributions are welcome! Please submit issues or pull requests to improve the system.
 
-License
 
+#License
 This project is licensed under the MIT License.
 
-Disclaimer
-
+#Disclaimer
 This tool is intended for educational and security research purposes. Use responsibly and ensure compliance with legal and ethical guidelines.
